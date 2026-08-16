@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:23863c&height=220&section=header&text=Hi%20There,%20I'm%20Arsham%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Junior%20DevOps%20Engineer%20%7C%20Cloud%20%26%20Automation%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:23863c&height=220&section=header&text=Hi%20There,%20I'm%20Arsham%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Junior%20DevOps%20Engineer%20%7C%20Cloud%20%26%20Automation%20Enthusiast&descAlignY=55&descSize=18" width="100%" height="220"/>
 
 <a href="https://github.com/Arshamrhr">
   <img src="https://readme-typing-svg.demolab.com/?lines=Building+cloud+infrastructure+%E2%98%81%EF%B8%8F;Automating+everything+I+can+%E2%9A%99%EF%B8%8F;Containers%2C+Kubernetes+%26+CI%2FCD;Always+learning+something+new+%F0%9F%8C%B1&font=Fira%20Code&center=true&width=550&height=45&color=23863C&vCenter=true&size=22&pause=1200"/>
@@ -97,6 +97,6 @@
 
 ⭐ **Thanks for stopping by — feel free to explore my repos and say hi!** ⭐
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:23863c,100:0e75b6&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:23863c,100:0e75b6&height=100&section=footer" width="100%" height="100"/>
 
 </div>
