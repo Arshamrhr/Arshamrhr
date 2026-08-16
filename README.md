@@ -2,7 +2,6 @@
 <h3 align="center">Junior DevOps Engineer</h3>
 
 <p align="center">
-  <!-- Profile Views Counter Badge -->
   <img src="https://komarev.com/ghpvc/?username=arshamrhr&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
   <a href="https://github.com/Arshamrhr"><img src="https://img.shields.io/github/followers/Arshamrhr?label=Followers&style=flat-square&color=238636" alt="Followers" /></a>
 </p>
@@ -50,15 +49,23 @@
 
 ---
 
+### 🐍 Contribution Activity Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Arshamrhr/Arshamrhr/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Arshamrhr/Arshamrhr/output/github-contribution-grid-snake.svg">
+  <img alt="Arsham's Contribution Snake Animation" src="https://raw.githubusercontent.com/Arshamrhr/Arshamrhr/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
 ### 📊 GitHub Stats & Streak
 
 <p align="center">
-  <!-- GitHub Streak Card -->
   <img src="https://streak-stats.demolab.com?user=arshamrhr&theme=tokyonight&hide_border=true" alt="Arsham's GitHub Streak" />
 </p>
 
 <p align="center">
-  <!-- GitHub Stats & Languages -->
   <img src="https://github-readme-stats.vercel.app/api?username=arshamrhr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Arsham's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arshamrhr&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
