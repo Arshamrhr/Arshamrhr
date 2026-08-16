@@ -19,7 +19,7 @@
         <li>🔭 Currently working on <b>cloud infrastructure, automation & scalable architectures</b></li>
         <li>🌱 Continuously learning <b>distributed systems, telemetry & container orchestration</b></li>
         <li>⚡ Fun fact: <i>Automating repetitive tasks is my favorite hobby</i></li>
-        <li>📫 Reach me: <a href="mailto:your-email@example.com">your-email@example.com</a></li>
+        <li>📫 Reach me: <a href="mailto:arshamrhr@gmail.com">arshamrhr@gmail.com</a></li>
       </ul>
     </td>
     <td valign="top" width="45%">
