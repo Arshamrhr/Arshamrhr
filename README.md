@@ -17,15 +17,24 @@
 
 ### 👨‍💻 About Me
 
+<table>
+<tr>
+<td valign="top" width="60%">
+
 - 🔭 Currently working on: [**Cloud infrastructure, automation & scalable architectures**](https://github.com/Arshamrhr/Echoverse)
 - 🌱 Continuously learning: **Distributed systems, telemetry & container orchestration**
 - 📁 Check out my repositories: [**github.com/Arshamrhr**](https://github.com/Arshamrhr)
 - ⚡ Fun fact: *You can kidnap me with good music taste* 🎧
 - 📫 Reach me at: **arshamrhr@gmail.com**
 
-<img align="right" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF"/>
+</td>
+<td width="40%">
 
-<br clear="right"/>
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
